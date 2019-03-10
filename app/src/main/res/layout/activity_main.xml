@@ -22,7 +22,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
         android:layout_marginEnd="0dp"
-        android:background="@color/Salmon"
+        android:background="@color/colorPrimary"
         app:itemIconTint="@color/White"
         app:itemTextColor="@color/White"
         app:menu="@menu/navigation" />

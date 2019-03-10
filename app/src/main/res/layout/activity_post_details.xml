@@ -179,7 +179,7 @@
                     android:layout_height="wrap_content"
                     android:paddingStart="5dp"
                     android:paddingEnd="5dp"
-                    android:src="@drawable/ic_forum_black_24dp"
+                    android:src="@drawable/ic_comments_blue_24dp"
                     android:tint="@color/colorG_Blue" />
 
                 <TextView
